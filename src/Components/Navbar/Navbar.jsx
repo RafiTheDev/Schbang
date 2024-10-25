@@ -52,7 +52,7 @@ const Navbar = () => {
         </NavLink>
       </li>
 
-      <button className="btn-ghost rounded-2xl px-5 py-3   border-[black] bg-black  text-white ">
+      <button className="btn-ghost rounded-full px-5 py-3   border-[black] bg-black  text-white ">
             
             Contact Us →
             

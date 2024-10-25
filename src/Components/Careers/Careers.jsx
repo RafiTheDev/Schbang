@@ -2,7 +2,7 @@
 const Careers = () => {
   return (
     <div>
-        <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+        <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full md:px-24 lg:px-8 lg:py-20">
       <div className="text-start ">
         <div>
           <h3 className="text-6xl font-semibold text-black">Taking the best of creative talent from <br />India to the world.</h3>          
@@ -24,8 +24,8 @@ const Careers = () => {
       
       
 
-      <div className="mb-16">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/_eoJHpnDrZY?si=hbwnbB_eKphe3DG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <div className="mb-16 container mx-auto w-full">
+      <iframe className="mb-16 w-full h-screen"  src="https://www.youtube.com/embed/_eoJHpnDrZY?si=hbwnbB_eKphe3DG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
       </div>
 
@@ -274,8 +274,8 @@ const Careers = () => {
 
 
     <div>
-    <div className="mb-16 container mx-auto w-full max-w-3xl career">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/_eoJHpnDrZY?si=hbwnbB_eKphe3DG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div className="mb-16 container mx-auto w-full ">
+      <iframe className="mb-16 w-full h-screen" src="https://www.youtube.com/embed/_eoJHpnDrZY?si=hbwnbB_eKphe3DG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
       </div>
 
