@@ -5,15 +5,15 @@ const Careers = () => {
         <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full md:px-24 lg:px-8 lg:py-20">
       <div className="text-start ">
         <div>
-          <h3 className="text-6xl font-semibold text-black">Taking the best of creative talent from <br />India to the world.</h3>          
+          <h3 className="text-6xl font-semibold text-black">Career</h3>          
         </div>
         
 
         <p className="text-base text-start md:text-lg my-5">
-        Want a sneak peak into a Schbanger life? Watch this video & apply to be part of the team!
+        Showcasing the innovative spirit of Bangladesh on a global stage.
         </p>
 
-        <button className="btn-ghost rounded-2xl px-5 py-3   border-[black] bg-black  text-white mb-20">
+        <button className="px-28 rounded-full py-3   border-[black] bg-[#125B5C]  text-white mb-20">
             
             See All Openings →
             

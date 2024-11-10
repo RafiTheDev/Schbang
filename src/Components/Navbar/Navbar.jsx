@@ -49,11 +49,11 @@ const Navbar = () => {
       
       <li>
         <NavLink to={'/careers'}>
-        Careers
+        <h1>Careers</h1>
         </NavLink>
       </li>
 
-      <button className="btn-ghost rounded-full px-5 py-3   border-[black] bg-black  text-white ">
+      <button className="btn-ghost rounded-full px-5 py-3   border-[#125B5C] bg-[#125B5C]  text-white ">
             
             Contact Us →
             
