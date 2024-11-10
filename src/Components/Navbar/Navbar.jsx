@@ -1,3 +1,4 @@
+import logo from '../../assets/living brands.png'
 import { NavLink } from "react-router-dom"
 
 const Navbar = () => {
@@ -8,7 +9,7 @@ const Navbar = () => {
     
     <a className="btn btn-link text-xl w-60 h-0 flex items-center justify-center ">
         <NavLink to={'/'}>
-        <img src="https://i.postimg.cc/RVGgWdtM/schb.gif" alt="schbang" />
+        <img className='h-20' src={logo} alt="schbang" />
 
         </NavLink>
         

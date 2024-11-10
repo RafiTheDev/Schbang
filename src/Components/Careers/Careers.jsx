@@ -25,9 +25,12 @@ const Careers = () => {
       
 
       <div className="mb-16 container mx-auto w-full">
-      <iframe className="mb-16 w-full h-screen"  src="https://www.youtube.com/embed/_eoJHpnDrZY?si=hbwnbB_eKphe3DG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <video className="mb-16 w-full h-screen" controls>
+    <source src="https://living-brand.netlify.app/videos/career1.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-      </div>
 
 
 
@@ -274,10 +277,13 @@ const Careers = () => {
 
 
     <div>
-    <div className="mb-16 container mx-auto w-full ">
-      <iframe className="mb-16 w-full h-screen" src="https://www.youtube.com/embed/_eoJHpnDrZY?si=hbwnbB_eKphe3DG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div className="mb-16 container mx-auto w-full">
+  <video className="mb-16 w-full h-screen" controls>
+    <source src="https://living-brand.netlify.app/videos/career.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-      </div>
 
 
       <div>
